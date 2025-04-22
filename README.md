@@ -33,12 +33,4 @@ The primary goal is to explore how **knowledge distillation (KD)** can improve g
 
 ---
 
-@misc{yourpaper2024,
-  title={Knowledge Distillation for Tbi Prognosis: Addressing Feature Mismatch in Heterogeneous Clinical Datasets},
-  author={Shuaixun Wang, Martyn G Boutelle},
-  year={2024},
-  eprint={ssrn:5003367},
-  primaryClass={cs.LG}
-}
-
 
