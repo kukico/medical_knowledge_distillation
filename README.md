@@ -14,9 +14,9 @@ The code supports:
 
 This implementation is based on the methods presented in the following paper:
 
-**[Insert Paper Title Here]**  
-*Authors: [Insert authors]*  
-[Insert journal/conference name or arXiv link if available]
+**Knowledge Distillation for Tbi Prognosis: Addressing Feature Mismatch in Heterogeneous Clinical Datasets**  
+*Authors: Shuaixun Wang, Martyn G Boutelle*  
+(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003367)
 
 The primary goal is to explore how **knowledge distillation (KD)** can improve generalization performance in a clinical outcome prediction model trained on structured EHR data.
 
